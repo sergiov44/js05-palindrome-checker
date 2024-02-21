@@ -12,4 +12,4 @@ function checkForPalindrome(input) {
 button.addEventListener('click', () => {
     checkForPalindrome(input.value);
     input.value = '';
-  });   
+  });
